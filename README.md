@@ -4,7 +4,7 @@
 * Untuk metode analitik dengan menggunakan metode baru yaitu persamaan Solusi Michell dalam teori elastisitas
 * Untuk metode numerik dengan menggunakan software Abaqus
 
-![](https://github.com/fauzi1999mei/fauzi_portofolio/blob/main/influenza.JPG)
+![](https://github.com/fauzi1999mei/fauzi_portofolio/blob/main/Compare.png)
 # [Project 2 : Analisis Keterkaitan antara Order Details, Product Information dan Property Information]()
 * deskripsikan
 # [Project 3 : Forecasting the level of CO2]()
