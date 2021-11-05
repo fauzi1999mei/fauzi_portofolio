@@ -6,10 +6,10 @@
 
 ![](https://github.com/fauzi1999mei/fauzi_portofolio/blob/main/influenza.png)
 ![](https://github.com/fauzi1999mei/fauzi_portofolio/blob/main/Compare.png)
-# [Project 2 : Analisis Keterkaitan antara Order Details, Product Information dan Property Information]()
+# [Project 2 : Analisis Keterkaitan antara Order Details, Product Information dan Property Information](https://docs.google.com/presentation/d/1jEceIDvFH9cwPom6qSEeugoRQGqE7OKI/edit#slide=id.p6)
 * Projek ini menggunakan tool mysql dan spreadsheet
 * [Mysql code](https://github.com/fauzi1999mei/sql)
-* [spreadsheet link](https://docs.google.com/spreadsheets/d/1HgEDMcHptr38J8UhZgmeGSRDiJ9Lm8SiXzcqQz9RDNc/edit#gid=530571446)  
+* [spreadsheet link](https://drive.google.com/drive/u/0/folders/1-nR3fzAGTPM69f6LnG4yovoiFn6FfcAm?ths=true)  
 # [Project 3 : Forecasting the level of CO2]()
 * Pada projek ini meramalkan mengenai tingkatan karbon dioksida di bumi
 * [python code](https://github.com/fauzi1999mei/level_of_co2)
