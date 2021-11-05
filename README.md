@@ -13,7 +13,7 @@
 # [Project 3 : Forecasting the level of CO2]()
 * Pada projek ini meramalkan mengenai tingkatan karbon dioksida di bumi
 * [python code](https://github.com/fauzi1999mei/level_of_co2)
-# [Project 4 : clustering customer using elbow method](https://github.com/fauzi1999mei/clustering)
+# [Project 4 : clustering customer satisfaction and loyalty using elbow method](https://docs.google.com/presentation/d/1HJoepqOi6R0-JEhk-ZhaOpWssRvcIbga/edit#slide=id.p5)
 * projek ini berisi mengenai clustering customer, yang mana untuk data didapatkan di Kaggle
 * [python code](https://github.com/fauzi1999mei/clustering)
 # [Project 5 : classification diabetes disease using KNN]()
