@@ -22,6 +22,6 @@
 # [Project 6 : Analisa Hubungan antara horse power and price of machine](https://docs.google.com/presentation/d/1-IXybKLP0YPSILvs-x9tyoMp5YmB0QD644wtnOoIuKI/edit#slide=id.gfa1e59f2d9_0_5)
 * projek ini mengenai analisa hubungan antara daya dan harga pada mesin
 * [python code](https://github.com/fauzi1999mei/linier_regression)
-# [Project 7 : Gaussian Mixtures analisa kandungan pada makanan cepat saji]()
+# [Project 7 : Gaussian Mixtures analisa kandungan pada makanan cepat saji](https://docs.google.com/presentation/d/148v4FqFqKHmemgF_CrVcWAk_dYs3D8sqFC3-GqUuH8I/edit#slide=id.gfa20133368_0_145)
 * Pada projek ini menggunakan metode Gaussian Mixtures untuk menganalisa kandungan pada makanan cepat saji
 * [python code](https://github.com/fauzi1999mei/gauss)
