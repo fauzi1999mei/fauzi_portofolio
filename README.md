@@ -19,7 +19,7 @@
 # [Project 5 : classification diabetes disease using KNN]()
 * projek ini mengenai klasifikasi penyakit dibates yang mana untuk data didapatkan di Kaggle
 * [python code](https://github.com/fauzi1999mei/classification)
-# [Project 6 : Analisa Hubungan antara horse power and price of machine]()
+# [Project 6 : Analisa Hubungan antara horse power and price of machine](https://docs.google.com/presentation/d/1-IXybKLP0YPSILvs-x9tyoMp5YmB0QD644wtnOoIuKI/edit#slide=id.gfa1e59f2d9_0_5)
 * projek ini mengenai analisa hubungan antara daya dan harga pada mesin
 * [python code](https://github.com/fauzi1999mei/linier_regression)
 # [Project 7 : Gaussian Mixtures analisa kandungan pada makanan cepat saji]()
